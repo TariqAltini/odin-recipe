@@ -18,3 +18,8 @@ h1 {
 li {
     font-size: 20px;
 }
+
+#main-recipe-image {
+    display: block;
+    width: 100%;
+}
