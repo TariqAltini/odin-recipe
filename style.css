@@ -1,0 +1,20 @@
+body {
+    /*margin: 0;*/
+    font-family: Verdana, sans-serif;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+h1 {
+    color: hsl(224, 51%, 15%);
+    background-color: hsl(41, 91%, 79%);
+    font-family: Georgia, serif;
+    margin-top: 0px;
+    padding: 0.5em 20px;
+    border-radius: 8px;
+
+}
+
+li {
+    font-size: 20px;
+}
